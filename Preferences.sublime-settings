@@ -1,0 +1,18 @@
+{
+	"auto_complete": true,
+	"color_scheme": "Packages/User/SublimeLinter/Afterglow-twilight (SL).tmTheme",
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Markdown",
+		"Vintage"
+	],
+	"show_full_path": true,
+	"sidebar_size_13": true,
+	"status_bar_brighter": true,
+	"tab_size": 2,
+	"tabs_medium": true,
+	"theme": "Afterglow.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}
